@@ -1,0 +1,4 @@
+#Sun Feb 19 09:49:10 CET 2023
+base.0=C\:\\Dropbox\\Personale\\Unity\\AnimalsClicker2D\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
